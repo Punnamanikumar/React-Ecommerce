@@ -1,0 +1,81 @@
+[
+    {
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2038071/2019/4/9/ace5c891-0717-485c-8080-9c37c5c759821554799993054-Roadster-Men-Black--White-Slim-Fit-Solid-Casual-Shirt-322155-1.jpg",
+      "name": "Roadster Mens Casual Shirts",
+      "price": "1099",
+      "productId": "1",
+      "brandName": "EUROLINE",
+      "category": "men",
+      "companyAssured": false,
+      "rating": "4.2",
+      "discount": "25%",
+      "sellerName": "telform inc.",
+      "isNewProduct": true
+    },
+    {
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10945088/2020/1/31/80fea103-f089-476d-a27d-6594a069a1281580455058892-Roadster-Men-Shirts-6341580455057092-1.jpg",
+      "name": "FORCLAZ By Decathlon",
+      "price": "909",
+      "productId": "2",
+      "brandName": "Morphy",
+      "category": "men",
+      "companyAssured": true,
+      "rating": "3.9",
+      "discount": "11%",
+      "sellerName": "Kwitch Retails",
+      "isNewProduct": false
+    },
+    {
+        "name": "DELAN Womens Casual Dress",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11208456/2020/1/22/e42a9f06-6113-48dd-83eb-f7534764a7851579691613614-her-by-invictus-Women-Lavender--White-Regular-Fit-Printed-Ca-1.jpg",
+        "price": "865",
+        "productId": "3",
+        "brandName": "Fitbit",
+        "category": "women",
+        "companyAssured": true,
+        "rating": "3.9",
+        "discount": "",
+        "sellerName": "RetailNet",
+        "isNewProduct": true
+      },
+      {
+        "name": "SHAYE Womens Casual Dress",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13722812/2021/7/21/b8594826-547c-43d6-ae13-e28092b439c41626862987083-Roadster-Women-Shirts-7921626862986445-1.jpg",
+        "price": "1008",
+        "productId": "4",
+        "brandName": "Morphy",
+        "category": "women",
+        "companyAssured": true,
+        "rating": "3.9",
+        "discount": "10%",
+        "sellerName": "Kwitch Retails",
+        "isNewProduct": false
+      },
+      {
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16913298/2022/2/23/dcab7eb5-ce11-42c9-8f0e-8d9f38738f251645607077022-mothercare-Boys-Shirts-2851645607076742-1.jpg",
+        "name": "Cavio Boys Casual Shirt",
+        "price": "999",
+        "productId": "5",
+        "brandName": "EUROLINE",
+        "category": "boy",
+        "companyAssured": false,
+        "rating": "4.2",
+        "discount": "",
+        "sellerName": "telform inc.",
+        "isNewProduct": true
+      },
+      {
+        "category": "boy",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16983430/2022/1/30/03e6ca0e-dac3-419f-af53-72032623b1911643486997303DonutsBoysPinkCasualShirt1.jpg",
+        "name": "MAX Boys Casual Shirt",
+        "price": "566",
+        "productId": "6",
+        "brandName": "Morphy",
+        "companyAssured": true,
+        "rating": "3.9",
+        "discount": "11%",
+        "sellerName": "Kwitch Retails",
+        "isNewProduct": false
+      }
+
+  ]
